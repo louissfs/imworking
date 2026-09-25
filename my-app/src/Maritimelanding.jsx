@@ -7,7 +7,7 @@ const CONTENT = {
   brand: "Seavik",
   headline: ["Maritime", "brokerage", "& chartering"],
   intro:
-    "We broker offshore support vessels, barges and tugs, and buy and sell commercial vessels worldwide. Send us a route, a parcel or a vessel you have open, and a broker will reply within one business day.",
+    "End-to-end commercial vessel brokerage and chartering solutions. Send us your open vessel, cargo parcel, or project requirement to get started.",
   email: "ops@seavik.com",
   phone: "+44 7835 592674",
 
